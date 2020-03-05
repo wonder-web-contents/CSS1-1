@@ -1,0 +1,19 @@
+body {
+    background: #e9f9f9;
+}
+.text {
+    background: #333;
+    color: #FFF;
+}
+.rabbit {
+    width: 480px;
+    height: 360px;
+    background: url(image/jump1.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.rabbit:hover{
+    background: url(image/jump2.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
